@@ -17,7 +17,7 @@ After running `main_v3.py`, the Raspberry Pi Pico WH will scan Wi-Fi networks an
 ###  Demo Video:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ZatuagblglM" target="_blank">
+  <a href="https://youtu.be/-3GgHCfQUcw?si=8PP-tHfVqWdy6aRK" target="_blank">
 <img width="336" height="290" alt="image" src="https://github.com/user-attachments/assets/ec9098a7-39b5-4efd-b19a-5d50d4dd376e" />
     <br>🔗 Click to watch the demo video  ;)
   </a>
